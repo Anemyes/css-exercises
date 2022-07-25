@@ -1,0 +1,15 @@
+.click,
+.dont {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.click {
+    color: rgb(21, 255, 0);
+    background-color: rgb(255, 77, 0);
+}
+
+.dont {
+    color: rgb(25, 5, 255);
+    background-color: yellow;
+}
