@@ -1,0 +1,22 @@
+.odd,
+.large {
+
+    background-color: rgb(255, 159, 159);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.large {
+
+    font-size: 24px;
+}
+
+#gigant {
+    color: rgb(0, 0, 255);
+    font-size: 32px;
+}
+
+#moss {
+    background-color: rgb(159, 245, 159);
+    font-size: 24px;
+    font-weight: 900;
+}
